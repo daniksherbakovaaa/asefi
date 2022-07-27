@@ -32,7 +32,7 @@ module.exports = ({ isProduction }) => {
           {
             loader: 'file-loader',
             options: {
-              name: 'index.html',
+              name: '[name].html',
             },
           },
         ],

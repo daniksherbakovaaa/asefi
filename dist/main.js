@@ -16,7 +16,7 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _index_html__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.html */ \"./src/index.html\");\n\n\n//# sourceURL=webpack://asefi/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _index_html__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.html */ \"./src/index.html\");\n/* harmony import */ var _url_menu_menu_main_html__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./url_menu/menu_main.html */ \"./src/url_menu/menu_main.html\");\n/* harmony import */ var _url_menu_menu_app_html__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./url_menu/menu_app.html */ \"./src/url_menu/menu_app.html\");\n/* harmony import */ var _url_menu_menu_order_html__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./url_menu/menu_order.html */ \"./src/url_menu/menu_order.html\");\n/* harmony import */ var _url_menu_menu_about_html__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./url_menu/menu_about.html */ \"./src/url_menu/menu_about.html\");\n\n\n\n\n\n\n//# sourceURL=webpack://asefi/./src/index.js?");
 
 /***/ }),
 
@@ -27,6 +27,46 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _ind
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"index.html\");\n\n//# sourceURL=webpack://asefi/./src/index.html?");
+
+/***/ }),
+
+/***/ "./src/url_menu/menu_about.html":
+/*!**************************************!*\
+  !*** ./src/url_menu/menu_about.html ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"menu_about.html\");\n\n//# sourceURL=webpack://asefi/./src/url_menu/menu_about.html?");
+
+/***/ }),
+
+/***/ "./src/url_menu/menu_app.html":
+/*!************************************!*\
+  !*** ./src/url_menu/menu_app.html ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"menu_app.html\");\n\n//# sourceURL=webpack://asefi/./src/url_menu/menu_app.html?");
+
+/***/ }),
+
+/***/ "./src/url_menu/menu_main.html":
+/*!*************************************!*\
+  !*** ./src/url_menu/menu_main.html ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"menu_main.html\");\n\n//# sourceURL=webpack://asefi/./src/url_menu/menu_main.html?");
+
+/***/ }),
+
+/***/ "./src/url_menu/menu_order.html":
+/*!**************************************!*\
+  !*** ./src/url_menu/menu_order.html ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"menu_order.html\");\n\n//# sourceURL=webpack://asefi/./src/url_menu/menu_order.html?");
 
 /***/ })
 
